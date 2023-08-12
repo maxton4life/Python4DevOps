@@ -52,7 +52,7 @@ I will be covering all these 👇 to have a good grasps of the python programmin
 
 ### 10. Monitoring and Logging
     - Learn about monitoring tools like Prometheus and Grafana.
-    - Explore logging libraries like `logging` in Python.
+    - Explore logging libraries like logging in Python.
 
 ### 11. Continuous Integration and Deployment (CI/CD)
     - Learn about CI/CD concepts and tools like Jenkins, GitLab CI/CD, or Travis CI.
@@ -66,8 +66,6 @@ I will be covering all these 👇 to have a good grasps of the python programmin
     - Work on projects that involve automating deployment, scaling, and maintenance.
     - Practice integrating different DevOps tools with Python scripts.
 
-I used chat gpt to make a roadmap on python for DevOps 👉 [chatgpt](https://www.chat.openai.com)
----
 
 ## Author 
 [Hameed Kareem](https://github.com/maxton4life)
