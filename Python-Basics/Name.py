@@ -1,0 +1,5 @@
+yourName = input('What is your name? ')
+yourFavoriteColour = input('What is your favorite colour? ')
+print(yourName +  ' likes ' + yourFavoriteColour + '.' )
+print("The length of your name is: ")
+print(len(yourName))
