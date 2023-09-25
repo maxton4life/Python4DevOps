@@ -1,16 +1,16 @@
 # Python4DevOps
 ---
 
-This repository contains my personal learning on python exclusively for devops. 
+This repository contains my life learning Python exclusively for devops. 
 
 **Why Python?** 
-I am using python to learn devops practices because it's the most widely used   language to 
+I am using Python to learn devops practices because it's the most widely used language to 
 
-automate tasks that are repeatable.
+automate repeatable tasks
 
-I used chat gpt to make a roadmap on python for DevOps 👉 [chatgpt](https://www.chat.openai.com). 
+I used chat goget myto getadmap on Python for DevOps 👉 [chatgpt](https://www.chat.openai.com). 
 
-I will be covering all these 👇 to have a good grasps of the python programming language for devops 
+I will be covering all these 👇 to have a good grasp of the Python programming language for devops 
 
  Here's a roadmap outlining the key steps to learn Python for a DevOps role:
 
